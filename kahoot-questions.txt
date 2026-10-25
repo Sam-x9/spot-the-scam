@@ -1,0 +1,83 @@
+SPOT THE SCAM - CLASS QUIZ
+Eight questions covering email phishing, smishing, vishing, and quishing.
+Suggested time: 30 seconds. One correct answer per question.
+
+1. Your account closes today
+An email asks you to reply with your password and login code to keep your campus account.
+What is the safest next step?
+A. Reply with both details
+B. Contact IT using the official help desk
+C. Use the email link to log in
+D. Send only the code
+Correct answer: B
+Explanation: Do not share login secrets in response to an unexpected request. Verify through a trusted channel.
+
+2. Pay a small redelivery fee
+A text asks for $1.50 through a link to release a package. You are expecting a delivery.
+What is the safest next step?
+A. Pay because a package is expected
+B. Reply with a card number
+C. Check the carrier’s official app
+D. Open the link to inspect the payment form
+Correct answer: C
+Explanation: An expected delivery does not prove this particular message is genuine. Check independently.
+
+3. Read out your login code
+A caller says your account is under attack and asks you to read out a code that just arrived.
+What is the safest next step?
+A. Read the code to stop the attack
+B. Trust the caller ID
+C. Ask the caller to repeat your name
+D. Hang up and call your bank using a trusted number
+Correct answer: D
+Explanation: Caller ID and personal details can be misleading. Do not share a login code with an unexpected caller.
+
+4. A sticker covers the payment code
+A new QR-code sticker covers an older payment sign and opens an unfamiliar payment address.
+What is the safest next step?
+A. Use the operator’s official app or payment machine
+B. Pay because the sign is in a public place
+C. Trust any page with a padlock
+D. Enter a different card to test the site
+Correct answer: A
+Explanation: A code can be replaced. A padlock shows an encrypted connection, not that the business is legitimate.
+
+5. Your book is due tomorrow
+An expected library reminder arrives. It does not ask for a password or payment.
+What is the safest next step?
+A. All emails are scams
+B. Reply with a password
+C. Check loans through your usual library app
+D. Forward it without reading
+Correct answer: C
+Explanation: Not every message is phishing. Use a trusted app or bookmark when checking.
+
+6. You won a gift card
+A text promises a prize and asks you to pay a processing fee through an unfamiliar link.
+What is the safest next step?
+A. Pay the small fee
+B. Avoid the link and report the text
+C. Send a photo of your bank card
+D. Reply to ask which card to use
+Correct answer: B
+Explanation: Unexpected rewards and payment requests are warning signs. Report the text through your messaging app.
+
+7. Install a remote-access tool
+An unexpected caller says your laptop is infected and tells you to install remote-access software.
+What is the safest next step?
+A. Install it immediately
+B. Give them your password instead
+C. Trust them if they know your name
+D. End the call and contact your real IT team
+Correct answer: D
+Explanation: Unexpected remote-access requests deserve independent verification. Do not give the caller control of your device.
+
+8. Your presenter shares a game code
+Your presenter shows a QR code for Kahoot. What is a sensible habit before opening its destination?
+What is the safest next step?
+A. Assume every QR code is malicious
+B. Check the source and the destination URL
+C. Enter any details the page requests
+D. Trust a QR code because it looks professional
+Correct answer: B
+Explanation: QR codes are not inherently malicious. Check who provided the code and where it leads.
